@@ -1,0 +1,10 @@
+org/Elya_Cherry/owner/dto/OwnerDto.class
+org/Elya_Cherry/owner/entities/Owner.class
+org/Elya_Cherry/owner/service/OwnerService.class
+org/Elya_Cherry/owner/mapper/OwnerMapperImpl.class
+org/Elya_Cherry/owner/controller/OwnerController.class
+org/Elya_Cherry/owner/messaging/OwnerEventConsumer.class
+org/Elya_Cherry/owner/repository/OwnerRepository.class
+org/Elya_Cherry/owner/messaging/OwnerEventProducer.class
+org/Elya_Cherry/owner/OwnerServiceApplication.class
+org/Elya_Cherry/owner/mapper/OwnerMapper.class

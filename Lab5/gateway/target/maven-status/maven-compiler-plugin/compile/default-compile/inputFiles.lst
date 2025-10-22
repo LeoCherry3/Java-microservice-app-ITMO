@@ -1,0 +1,9 @@
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/service/CustomUserDetailsService.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/entities/Role.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/config/SecurityConfig.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/repository/UserRepository.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/controller/AuthController.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/GatewayApplication.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/Main.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/controller/ProxyController.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/gateway/src/main/java/org/Elya_Cherry/gateway/entities/User.java

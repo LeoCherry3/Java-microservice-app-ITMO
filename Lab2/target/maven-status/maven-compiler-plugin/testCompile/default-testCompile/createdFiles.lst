@@ -1,0 +1,5 @@
+org/example/BaseDaoTest.class
+org/example/DAO/PetDaoTest.class
+org/example/services/PetServiceTest.class
+org/example/services/OwnerServiceTest.class
+org/example/DAO/OwnerDaoTest.class

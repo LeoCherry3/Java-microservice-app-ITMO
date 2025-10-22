@@ -1,0 +1,9 @@
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/OwnerServiceApplication.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/dto/OwnerDto.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/service/OwnerService.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/entities/Owner.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/controller/OwnerController.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/messaging/OwnerEventProducer.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/repository/OwnerRepository.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/mapper/OwnerMapper.java
+/Users/leo_cherry3/IdeaProjects/is-tech-y27/Lab5/owner-service/src/main/java/org/Elya_Cherry/owner/messaging/OwnerEventConsumer.java
